@@ -1,3 +1,6 @@
+
+It's a test file.
+
 # Markdown-Examples
 
 
@@ -22,3 +25,4 @@ if (isAwesome){
   return true
 }
 ```
+
